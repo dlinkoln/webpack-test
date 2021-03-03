@@ -24,7 +24,7 @@
         "webpack-dev-server": "^3.8.0",
         "nunjucks": "^3.2.0",
         "nunjucks-html-loader": "^1.1.0",
-        "pug": "^2.0.4",
+        "pug": "^3.0.1",
         "pug-loader": "^2.4.0"
     },
     "dependencies": {
