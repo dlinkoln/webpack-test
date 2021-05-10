@@ -28,7 +28,7 @@
         "pug-loader": "^2.4.0"
     },
     "dependencies": {
-        "lodash": "^4.17.15",
+        "lodash": "^4.17.21",
         "nunjucks-loader": "^3.0.0"
     }
 }
